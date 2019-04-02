@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidArchitecturePoc</string>
+
+    <string name="email_field_hint">Enter your email</string>
+    <string name="password_field_hint">Enter your password</string>
+    <string name="login_button_text">Login</string>
+</resources>
